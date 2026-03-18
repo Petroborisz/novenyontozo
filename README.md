@@ -22,3 +22,4 @@ Ez egy Arduino IDE-n fejlesztett okos öntözőrendszer, amely méri a talajnedv
 ### Továbbfejlesztési ötletek:
 * Raspberry Pi alkalmazása a tényleges kötetlen működéshez
 * AI vezérelt növényöntözés hosszútávú megfigyelés alapján
+* ASDasdsadasdsad
