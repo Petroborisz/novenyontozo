@@ -18,3 +18,7 @@ Ez egy Arduino IDE-n fejlesztett okos öntözőrendszer, amely méri a talajnedv
   * 1 m hosszú cső
   * jumper kábelek
   * passzív zümmögő a hangjelzéshez
+
+### Továbbfejlesztési ötletek:
+* Raspberry Pi alkalmazása a tényleges kötetlen működéshez
+* AI vezérelt növényöntözés hosszútávú megfigyelés alapján
